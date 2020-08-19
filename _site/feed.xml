@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://abresting.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://abresting.github.io/" rel="alternate" type="text/html" /><updated>2020-08-19T05:00:59-07:00</updated><id>https://abresting.github.io/feed.xml</id><title type="html">Abhimanyu Rawat</title><subtitle></subtitle><author><name>Abhimanyu Rawat</name><email>Abhimanyu.Rawat@nokia.com</email></author><entry><title type="html">PostgreSQL-Comp-table</title><link href="https://abresting.github.io/posts/2019/PostgreSQL-comp-table/" rel="alternate" type="text/html" title="PostgreSQL-Comp-table" /><published>2019-06-02T00:00:00-07:00</published><updated>2019-06-02T00:00:00-07:00</updated><id>https://abresting.github.io/posts/2019/PostgreSQL-comp-table</id><content type="html" xml:base="https://abresting.github.io/posts/2019/PostgreSQL-comp-table/">&lt;p&gt;Comparison table of the different PostgreSQL backup tools:&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Tool Name&lt;/th&gt;
+      &lt;th&gt;version Number&lt;/th&gt;
+      &lt;th&gt;Pros&lt;/th&gt;
+      &lt;th&gt;Cons&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Barman&lt;/td&gt;
+      &lt;td&gt;2.8 May 2019&lt;/td&gt;
+      &lt;td&gt;demo Text&lt;/td&gt;
+      &lt;td&gt;demo Text&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Amanda&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;demo Text&lt;/td&gt;
+      &lt;td&gt;demo Text&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bacula&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Handy Backup&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Iperius Backup&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Backup and Recovery  Manager for PostgreSQL&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;NetVault Backup&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;pgBackRest&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Simpana&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Spectrum Protect&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Manuals&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;demo Text&lt;/td&gt;
+      &lt;td&gt;demo Text&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>Abhimanyu Rawat</name><email>Abhimanyu.Rawat@nokia.com</email></author><category term="PostgreSQL" /><category term="SQL" /><category term="Database" /><category term="Setup" /><summary type="html">Comparison table of the different PostgreSQL backup tools:</summary></entry><entry><title type="html">PostgreSQL-Setup</title><link href="https://abresting.github.io/posts/2019/PostgreSQL-setup/" rel="alternate" type="text/html" title="PostgreSQL-Setup" /><published>2019-06-02T00:00:00-07:00</published><updated>2019-06-02T00:00:00-07:00</updated><id>https://abresting.github.io/posts/2019/PostgreSQL-setup</id><content type="html" xml:base="https://abresting.github.io/posts/2019/PostgreSQL-setup/">&lt;h1 id=&quot;about-postgresql&quot;&gt;About PostgreSQL&lt;/h1&gt;
+
+&lt;p&gt;In the world of SQL or RDBMS based databases, PostgreSQL offers great services which can be used by an individual user to large scale enterprises. Similar to most of the SQL based databases, setting it up is fairly simple, and it provides users a great experience and flexibility to meet your goals.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;To understand the PostgreSQL and how it suffice your use case, setting it up is an essential step. This post demonstrates how to install PostgreSQL on an Ubuntu 16.04 machine along with basic database administration with a running use case(small app).&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-1---install-postgresql&quot;&gt;Step 1 - Install PostgreSQL&lt;/h2&gt;
+
+&lt;p&gt;The most recommended method is to install it via the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;apt&lt;/code&gt; packing manager.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ruby&quot;&gt;user@foo:~$ sudo apt update
+user@foo:~$ sudo apt install postgresql postgresql-contrib
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;After the above installation, automatically a user and a database named as &lt;strong&gt;postgres&lt;/strong&gt; have been added to the machine and PostgreSQL service, it is an administration account. Now, you can use this administration user account to access the PostgreSQL related functions and roles. &lt;a href=&quot;http://www.postgresqltutorial.com/postgresql-roles/&quot; target=&quot;_blank&quot;&gt;Roles&lt;/a&gt; are nothing but the different types of functions you can perform in the PostgreSQL database.&lt;/p&gt;
+
+&lt;p&gt;There are a few ways to use &lt;strong&gt;postgres&lt;/strong&gt; account to access PostgreSQL shell.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2---enter-the-postgresql-shell&quot;&gt;Step 2 - Enter the PostgreSQL shell&lt;/h2&gt;
+
+&lt;p&gt;To switch over to the &lt;strong&gt;postgres&lt;/strong&gt; account run the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ruby&quot;&gt;user@foo:~$ sudo -i -u postgres
+postgres@foo:~$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now you have successfully entered in the &lt;strong&gt;postgres&lt;/strong&gt; account, to access the PostgreSQL process shell run the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ruby&quot;&gt;postgres@foo:~$ psql
+postgres=#
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;or-you-can-directly-enter-in-the-postgres-psql-shell-by&quot;&gt;Or you can directly enter in the &lt;strong&gt;postgres&lt;/strong&gt; psql shell by:&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ruby&quot;&gt;user@foo:~$ sudo -i -u postgres psql
+postgres=#
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now you are free to interact with the database management services.&lt;/p&gt;
+
+&lt;p&gt;Exit out of the PostgreSQL shell by:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ruby&quot;&gt;postgres=# \q
+user@foo:~$
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;step-3---creating-a-role&quot;&gt;Step 3 - Creating a role&lt;/h2&gt;
+
+&lt;p&gt;In PostgreSQL, a role/user is required so that it can interact with the PostgreSQL database service via as 3rd party standalone apps, PHP web application, Python scripts, etc.&lt;/p&gt;
+
+&lt;p&gt;A very simple way of creating a user is from &lt;strong&gt;postgres&lt;/strong&gt; account:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ruby&quot;&gt;postgres@foo:~$ createuser -P -s -e demopy
+Enter password for new role: 
+Enter it again: 
+SELECT pg_catalog.set_config('search_path', '', false)
+CREATE ROLE demopy PASSWORD 'md516a97ee203992bfc3ab84a77b340de86' SUPERUSER CREATEDB CREATEROLE INHERIT LOGIN;
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The above script has automatically made the role/user you created with superuser privileges. Select a password and remember, and it will be feed to your application that interacts with the PostgreSQL database on your behalf.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-4---creating-a-database&quot;&gt;Step 4 - Creating a Database&lt;/h2&gt;
+
+&lt;p&gt;Now, very quickly, you can create a database to play around with an application. From your &lt;strong&gt;postgres&lt;/strong&gt; account type the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ruby&quot;&gt;postgres@foo:~$ createdb demopy
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;step-5---accessing-the-database&quot;&gt;Step 5 - Accessing the database&lt;/h2&gt;
+
+&lt;p&gt;Access of the newly created PostgreSQL database &lt;strong&gt;demopy&lt;/strong&gt; can be done in two ways:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Creating a unix user with the same name as role and database(i.e. demopy) so that through terminal prompt you can access the PostgreSQL services the same way user &lt;strong&gt;postgres&lt;/strong&gt; does.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ruby&quot;&gt;user@foo:~$ sudo adduser demopy
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Note: the password of the unix user can be different of the password of the role, as during the access of the database through a 3rd party app or plugin the role password will be used not the unix user local account password.&lt;/p&gt;
+
+&lt;p&gt;Now to access the database using the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ruby&quot;&gt;user@foo:~$ sudo -i -u demopy
+demopy@foo:~$ psql
+demopy=#
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pydemo=#&lt;/code&gt; is the shell through which the database named demopy can be accessed.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Any database can be accessed via the default user &lt;strong&gt;postgres&lt;/strong&gt; account, without the need of making a separate unix user local account:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Once you enter the PostgreSQL using the &lt;strong&gt;postgres&lt;/strong&gt; account, by default it selects the &lt;em&gt;postgres&lt;/em&gt; database:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ruby&quot;&gt;postgres@foo:~$ psql
+postgres=#
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You can switch to any database present inside the PostgreSQL service using the command &lt;br /&gt; &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;\c &amp;lt;name_of_the_database&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ruby&quot;&gt;postgres=# \c demopy
+You are now connected to database &quot;demopy&quot; as user &quot;postgres&quot;.
+demopy=#
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Database admins mostly advise step 1.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-6---create-and-deleting-tables&quot;&gt;Step 6 - Create and Deleting Tables&lt;/h2&gt;
+
+&lt;p&gt;In the database, Tables are of a defined structure according to which the data is stored. After selecting a database to work on creating a table:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ruby&quot;&gt;demopy=# CREATE TABLE test (
+            id_number varchar(50) PRIMARY KEY, 
+            name varchar(100) NOT NULL, 
+            city varchar(50)
+    );
+
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;After this fill database entries for demonstration purpose&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-Ruby&quot;&gt;
+demopy=# INSERT INTO test (id_number, name, city) VALUES ('1', 'abc', 'JFK');
+demopy=# INSERT INTO test (name, id_number) VALUES ('xyz', '2');
+
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Run a query against the database to check if the data exists inside the database.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ruby&quot;&gt;
+demopy=# SELECT * FROM test;
+
+ id_number | name | city 
+-----------+------+------
+ 1         | abc  | JFK
+ 2         | xyz  | 
+(2 rows)
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You can perform many queries/operations over the database, more queries can be found &lt;a href=&quot;https://www.tutorialspoint.com/postgresql/postgresql_update_query.htm&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;running-an-application&quot;&gt;Running an Application&lt;/h2&gt;
+
+&lt;p&gt;We can query the database via 3rd party applications, any web plugin or script, etc. In this example, a simple python script will be used to query the database.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Python&quot;&gt;#!/usr/bin/python
+
+import pg
+
+conn = pg.DB(host=&quot;localhost&quot;, user=&quot;demopy&quot;, passwd=&quot;PASSWORD&quot;, dbname=&quot;demopy&quot;)
+
+result = conn.query(&quot;SELECT * FROM test&quot;)
+
+print result.getresult()
+
+conn.close()
+
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Output:
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[('1', 'abc', 'JFK'), ('2', 'xyz', None)]&lt;/code&gt;&lt;/p&gt;</content><author><name>Abhimanyu Rawat</name><email>Abhimanyu.Rawat@nokia.com</email></author><category term="PostgreSQL" /><category term="SQL" /><category term="Database" /><category term="Setup" /><summary type="html">About PostgreSQL</summary></entry></feed>

@@ -21,7 +21,3 @@ author_profile: true
 * <span style="color:green">[August, 2020]</span> Paper accepted in Journal of the ACM Transactions on Cyber-Physical Systems (TCPS)
 * <span style="color:green">[July, 2020]</span> 1st Prize at IC3 Blockchain Camp 2020(July-Aug) hosted by IC3 and Cornell University.
 * <span style="color:green">[February, 2020]</span> Won Blockchain [Hackathon](https://twitter.com/IMDEA_Software/status/1225347226265935873?s=20){:target="_blank"} at IMDEA Software Institute in Madrid.
-* <span style="color:green">[November, 2019]</span> Article published in International Journal of Psychology - Examining the Initial Usability, Acceptability and Feasibility of a Digital Mental Health Intervention for College Students in India
-* <span style="color:green">[October, 2019]</span> Joined Bell Labs, Paris as a Research Engineer, Distributed Systems(Blockchain and Security)
-* <span style="color:green">[September, 2019]</span> Paper accepted in IEEE ACCESS on Security and Privacy in Industry 4.0
-* <span style="color:green">[May, 2019]</span> Paper accepted in 5th ACM Cyber-Physical System Security Workshop (CPSS 2019)

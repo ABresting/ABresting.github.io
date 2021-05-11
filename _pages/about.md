@@ -9,7 +9,7 @@ author_profile: true
   <img src="http://localhost:4000/images/abhi1.png?raw=true" alt="Photo" style="width: 250px;"/> 
 </p>
 -->
-* I am a PhD Student and Research Engineer in the [Bell Labs](https://www.bell-labs.com/){:target="_blank"} (at present run by Nokia) at Paris, France. I am a Marie Curie Fellowship MSCA-ITN recipeint.	
+* I am a PhD Student at [WiSeCom Group](https://www.upf.edu/web/wisecom), UPF Barcelona, advised by [Vanesa Daza](https://www.upf.edu/web/vanesa-daza). My PhD is in collaboration with [Bell Labs](https://www.bell-labs.com/){:target="_blank"} (at present run by Nokia) at Paris, France where I served as a Research Intern for a year and a half. I am a Marie Curie Fellowship MSCA-ITN recipeint.
 <!-- and a PhD student at [UPF](https://www.upf.edu/en/){:target="_blank"}, Barcelona, Spain.
 -->
 * My research interests include Distributed Systems, Blockchains, Security, and, Computer Networks.
@@ -18,6 +18,7 @@ author_profile: true
 
 
 # Recent Updates
+* <span style="color:green">[May, 202]</span> Joined [WiSeCom Group](https://www.upf.edu/web/wisecom) at UPF Barcelona as a PhD student.
 * <span style="color:green">[October, 2020]</span> Won Student Prize at [Copernicus Hackathon](https://cophack.sciencepark.at/prizes/) held at Science Park in Graz.
 * <span style="color:green">[August, 2020]</span> Paper accepted in Journal of the ACM Transactions on Cyber-Physical Systems (TCPS)
 * <span style="color:green">[July, 2020]</span> 1st Prize at [IC3 Blockchain Camp](https://www.initc3.org/events/2020-07-26-IC3-Blockchain-Camp.html) 2020(July-Aug) hosted by IC3 and Cornell University.

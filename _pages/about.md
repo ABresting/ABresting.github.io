@@ -18,6 +18,7 @@ author_profile: true
 
 
 # Recent Updates
+* <span style="color:green">[June, 202]</span> Selected for Google Summer of Code(GSoC) 2021 in [Honeynet Org.](https://summerofcode.withgoogle.com/organizations/4800294338166784/?sp-page=2#6496703256985600).
 * <span style="color:green">[May, 202]</span> Joined [WiSeCom Group](https://www.upf.edu/web/wisecom) at UPF Barcelona as a PhD student.
 * <span style="color:green">[October, 2020]</span> Won Student Prize at [Copernicus Hackathon](https://cophack.sciencepark.at/prizes/) held at Science Park in Graz.
 * <span style="color:green">[August, 2020]</span> Paper accepted in Journal of the ACM Transactions on Cyber-Physical Systems (TCPS)

@@ -18,7 +18,7 @@ author_profile: true
 
 
 # Recent Updates
-* <span style="color:green">[July, 2020]</span> Winner at [IC3 Blockchain Camp](https://www.initc3.org/events/2021-07-25-ic3-blockchain-summer-camp) 2021(July) hosted by IC3 and Cornell University.
+* <span style="color:green">[July, 2021]</span> Winner at [IC3 Blockchain Camp](https://www.initc3.org/events/2021-07-25-ic3-blockchain-summer-camp ) 2021(July) hosted by IC3 and Cornell University.
 * <span style="color:green">[June, 2021]</span> Selected for Google Summer of Code(GSoC) 2021 in [Honeynet Org.](https://summerofcode.withgoogle.com/organizations/4800294338166784/?sp-page=2#6496703256985600).
 * <span style="color:green">[May, 2021]</span> Joined [WiSeCom Group](https://www.upf.edu/web/wisecom) at UPF Barcelona as a PhD student.
 * <span style="color:green">[October, 2020]</span> Won Student Prize at [Copernicus Hackathon](https://cophack.sciencepark.at/prizes/) held at Science Park in Graz.

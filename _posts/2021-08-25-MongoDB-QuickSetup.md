@@ -1,7 +1,7 @@
 ---
 title: 'MongoDB-QuickSetup'
 date: 2021-08-25
-permalink: /posts/2019/MongoDB-QuickSetup/
+permalink: /posts/2021/MongoDB-QuickSetup/
 tags:
   - MongoDB
   - NoSQL

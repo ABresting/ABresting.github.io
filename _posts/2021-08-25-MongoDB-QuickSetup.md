@@ -31,7 +31,7 @@ Also, docker-compose is needed in order to make sure you are doing things neat a
 
 It is a **good practise** to create a directory where everything related to the MongoDB you are about to use should be put.
 
-``` bash
+``` Ruby
 $ mkdir mongo
 
 # create a volume to store the MongoDB data from container
@@ -53,7 +53,7 @@ Code to start the MongoDB container should be put inside a docker-compose.yml fi
 
 Assume you **want authentication based MongoDB access** running on port number 27017 with a volume on the host machine to get the MongoDB data, you can use the following template: 
 
-```Text
+```Ruby
 version: '3.8'
 
 services:
@@ -75,7 +75,7 @@ In the snippet above you can choose replace the environment variables such as us
 
 If you want a MongoDB instance **without autentication requirements**, simple remove the environment variable and 3 following lines under that. Now new code will look like this:
 
-```Text
+```Ruby
 version: '3.8'
 
 services:
@@ -93,7 +93,7 @@ services:
 
 To deploy the container containing the MongoDb instance, use the following command:
 
-```bash
+```Ruby
 $ docker-compose up -d --build
 Creating network "mongo_default" with the default driver
 Creating mongodb ... done
@@ -103,7 +103,7 @@ Creating mongodb ... done
 This will spawn a docker container running MongoDB service which can be accessed by the user.
 To verify if the container is up and running user the following command:
 
-```bash
+```Ruby
 $ docker ps
 
 ```
@@ -121,7 +121,7 @@ If you don't see such output then something went wrong while deploying the conta
 
 To stop the container use the following command from the same directory where the original docker-compose.yml file is present.
 
-```bash
+```Ruby
 $ docker-compose down -v
 
 ```
@@ -133,7 +133,7 @@ Note using the command above will not only stop the MongoDB container but will a
 
 If you want to see what is going inside the container then you can use the `docker logs` feature. To use it following command will help:
 
-```bash
+```Ruby
 # after logs it is the container id, you will get from the `docker ps` command as mentioned above
 $ docker logs 4bb7211b38b1
 

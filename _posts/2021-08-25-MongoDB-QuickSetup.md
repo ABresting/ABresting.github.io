@@ -51,21 +51,23 @@ To quickly setup a MongoDB instance inside a container there are a few things yo
 
 Code to start the MongoDB container should be put inside a docker-compose.yml file.
 
-Assume you **want authentication based MongoDB access** running on port number 27017 with a volume on the host machine to get the MongoDB data, you can use the following template: 
+Assume you **want authentication based MongoDB access** running on port number 27017 with a volume on the host machine to get the MongoDB data, you can use the following template:
 
 ```Ruby
 version: '3.8'
 
+volumes:
+        mongodb_data:
 services:
       mongodb:
         image: mongo
         container_name: mongodb
         restart: always
-        volumes: 
-          - './mongodb_data:/data/db/'
+        volumes:
+                - 'mongodb_data:/data/db'
         environment:
-          MONGO_INITDB_ROOT_USERNAME: superuser
-          MONGO_INITDB_ROOT_PASSWORD: password
+          MONGO_INITDB_ROOT_USERNAME: 'superuser'
+          MONGO_INITDB_ROOT_PASSWORD: 'password'
           MONGO_INITDB_DATABASE: mongodb
         ports:
           - 27017:27017
@@ -78,13 +80,15 @@ If you want a MongoDB instance **without autentication requirements**, simple re
 ```Ruby
 version: '3.8'
 
+volumes:
+        mongodb_data:
 services:
       mongodb:
         image: mongo
         container_name: mongodb
         restart: always
-        volumes: 
-          - './mongodb_data:/data/db/'
+        volumes:
+                - 'mongodb_data:/data/db'
         ports:
           - 27017:27017
 ``` 

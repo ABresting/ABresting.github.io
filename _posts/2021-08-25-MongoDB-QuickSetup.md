@@ -14,7 +14,7 @@ tags:
 
 # About MongoDB
 
-MongoDB is a persistent data storage solution where users store data. It falls under NoSQL category i.e. instead of traditional table format used by SQL databases it follows JSON notation to store data. It provides more felxibility than SQL based databases.
+MongoDB is a persistent data storage solution where users/applications store data. It falls under NoSQL category i.e. instead of traditional table format used by SQL databases it follows JSON notation to store data. It provides more felxibility than SQL based databases.
 So be it user data, images, binaries, one can store almost anything is MongoDB.<br>
 
 This tutorial is a quick guide to setup a MongoDB instance.

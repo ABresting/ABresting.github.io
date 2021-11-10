@@ -18,6 +18,7 @@ author_profile: true
 
 
 # Recent Updates
+* <span style="color:green">[November, 2021]</span> Presented work on IoT Honeypot at [BlackHat Arsenal, Europe](https://www.blackhat.com/eu-21/arsenal/schedule/index.html#riotpot-a-modular-hybrid-interaction-iotot-honeypot-24800) 2021
 * <span style="color:green">[September, 2021]</span> Won Galledia [Challenge](https://devpost.com/software/charpie) at [HackZurich](https://hackzurich.com/) 2021
 * <span style="color:green">[August, 2021]</span> Successfully [completed](https://summerofcode.withgoogle.com/projects/#6496703256985600) Google Summer of Code 2021 project developing an IoT honeypot for [Honeynet Org](https://www.honeynet.org/).
 * <span style="color:green">[July, 2021]</span> Winner at [IC3 Blockchain Camp](https://www.initc3.org/events/2021-07-25-ic3-blockchain-summer-camp ) 2021(July) hosted by IC3 and Cornell University.

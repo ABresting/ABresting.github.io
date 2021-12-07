@@ -18,6 +18,7 @@ author_profile: true
 
 
 # Recent Updates
+* <span style="color:green">[December, 2021]</span> Vendor-Independent SDN - Paper accepted at [IEEE, SCC 2021](https://scc.ieee.tn/)
 * <span style="color:green">[November, 2021]</span> Presented work on IoT Honeypot at [BlackHat Arsenal, Europe](https://www.blackhat.com/eu-21/arsenal/schedule/index.html#riotpot-a-modular-hybrid-interaction-iotot-honeypot-24800) 2021
 * <span style="color:green">[September, 2021]</span> Won Galledia [Challenge](https://devpost.com/software/charpie) at [HackZurich](https://hackzurich.com/) 2021
 * <span style="color:green">[August, 2021]</span> Successfully [completed](https://summerofcode.withgoogle.com/projects/#6496703256985600) Google Summer of Code 2021 project developing an IoT honeypot for [Honeynet Org](https://www.honeynet.org/).
@@ -27,4 +28,3 @@ author_profile: true
 * <span style="color:green">[October, 2020]</span> Won Student Prize at [Copernicus Hackathon](https://cophack.sciencepark.at/prizes/) held at Science Park in Graz.
 * <span style="color:green">[August, 2020]</span> Paper accepted in Journal of the ACM Transactions on Cyber-Physical Systems (TCPS)
 * <span style="color:green">[July, 2020]</span> 1st Prize at [IC3 Blockchain Camp](https://www.initc3.org/events/2020-07-26-IC3-Blockchain-Camp.html) 2020(July-Aug) hosted by IC3 and Cornell University.
-* <span style="color:green">[February, 2020]</span> Won Blockchain [Hackathon](https://twitter.com/IMDEA_Software/status/1225347226265935873?s=20){:target="_blank"} at IMDEA Software Institute in Madrid.

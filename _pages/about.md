@@ -18,7 +18,7 @@ author_profile: true
 
 
 # Recent Updates
-* <span style="color:green">[December, 2021]</span> Vendor-Independent SDN - Paper accepted at [IEEE, SCC 2021](https://scc.ieee.tn/)
+* <span style="color:green">[December, 2021]</span> Vendor-Independent SDN - Paper accepted at [IEEE, SCC 2021](https://scc.ieee.tn/) <span style="color:blue"> **[ Best Paper Award ]**</span>
 * <span style="color:green">[November, 2021]</span> Presented work on IoT Honeypot at [BlackHat Arsenal, Europe](https://www.blackhat.com/eu-21/arsenal/schedule/index.html#riotpot-a-modular-hybrid-interaction-iotot-honeypot-24800) 2021
 * <span style="color:green">[September, 2021]</span> Won Galledia [Challenge](https://devpost.com/software/charpie) at [HackZurich](https://hackzurich.com/) 2021
 * <span style="color:green">[August, 2021]</span> Successfully [completed](https://summerofcode.withgoogle.com/projects/#6496703256985600) Google Summer of Code 2021 project developing an IoT honeypot for [Honeynet Org](https://www.honeynet.org/).

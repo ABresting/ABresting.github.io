@@ -17,9 +17,14 @@ author_profile: true
 {% endfor %}
 -->
 
+<b>[Offline Scaling of IoT Devices in IOTA Blockchain](https://ABresting.github.io/publications/SENSORS_IOTA_OFFLINE)</b> <br> 
+<b>Abhimanyu Rawat</b>, Vanesa Daza, Matteo Signorini
+<i>Sensors Journal Special Issue Blockchain for Trustworthy IoT</i>
+<b>(Sensors 2022)</b>.
+
 <b>[Decentralized Firmware Attestation for In-Vehicle Networks](https://ABresting.github.io/publications/CPSS_in_vehicle)</b> <br> 
 Mohammad Khodari, <b>Abhimanyu Rawat</b>, Andrei Gurtov, Mikael Asplund
-<i>5th ACM Cyber-Physical System Security Workshop</i> 
+<i>5th ACM Cyber-Physical System Security Workshop</i>
 <b>(CPSS 2019)</b>.
 
 <b>[Trends and Detection Avoidance of Internet-Connected Industrial Control Systems](https://ABresting.github.io/publications/IEEE_ACCESS_Trends_ICS_2019)</b> <br> 

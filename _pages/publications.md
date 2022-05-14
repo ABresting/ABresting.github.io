@@ -22,8 +22,13 @@ author_profile: true
 <i>Sensors Journal Special Issue Blockchain for Trustworthy IoT</i>
 <b>(Sensors 2022)</b>.
 
+<b>[Vendor-Independent Software-Defined Networking](https://ABresting.github.io/publications/VI_SDN_21)</b> <br> 
+Santiago Pagola Moledo, <b>Abhimanyu Rawat</b>, Andrei Gurtov
+<i>International Conference on Signal, Control and Communication</i>
+<b>(IEEE-SCC 2021)</b>.
+
 <b>[Decentralized Firmware Attestation for In-Vehicle Networks](https://ABresting.github.io/publications/CPSS_in_vehicle)</b> <br> 
-Mohammad Khodari, <b>Abhimanyu Rawat</b>, Andrei Gurtov, Mikael Asplund
+Mohammad Khodari, <b>Abhimanyu Rawat</b>, , Mikael Asplund
 <i>5th ACM Cyber-Physical System Security Workshop</i>
 <b>(CPSS 2019)</b>.
 

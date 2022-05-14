@@ -3,7 +3,7 @@ title: "Vendor-Independent Software-Defined Networking"
 collection: publications
 permalink: /publications/VI_SDN_21
 venue: "International Conference on Signal, Control and Communication"
-date: 2021-22-12
+date: 2021-12-22
 citation: 'Santiago Pagola Moledo, <b>Abhimanyu Rawat</b>, Andrei Gurtov'
 ---
 

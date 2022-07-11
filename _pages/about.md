@@ -18,6 +18,7 @@ author_profile: true
 
 
 # Recent Updates
+* <span style="color:green">[July, 2022]</span> Won BCN Hack [Challenge](https://taikai.network/en/datanatives/hackathons/bcn-hack/projects/cl5f6i2qh9980901z8uqvh0lzm/idea) at [BCN Hack](https://taikai.network/en/datanatives/hackathons/bcn-hack) 2022
 * <span style="color:green">[February, 2022]</span> Paper accepted in Journal of Sensors on [Blockchain for Trustworthy Internet of Things](https://www.mdpi.com/journal/sensors/special_issues/Blockchain_Trustworthy_IoT)
 * <span style="color:green">[December, 2021]</span> Vendor-Independent SDN - Paper accepted at [IEEE, SCC 2021](https://scc.ieee.tn/) <span style="color:blue"> **[ Best Paper Award ]**</span>
 * <span style="color:green">[November, 2021]</span> Presented work on IoT Honeypot at [BlackHat Arsenal, Europe](https://www.blackhat.com/eu-21/arsenal/schedule/index.html#riotpot-a-modular-hybrid-interaction-iotot-honeypot-24800) 2021

@@ -18,6 +18,7 @@ author_profile: true
 
 
 # Recent Updates
+* <span style="color:green">[September, 2022]</span> Won Casper Blockchain  [Challenge](https://app.creatorspace.dev/reachtarunhere/projects/9w5kzxn44IxJgpmr) at [HackZurich](https://hackzurich.com/) 2022
 * <span style="color:green">[July, 2022]</span> Won BCN Hack [Challenge](https://taikai.network/en/datanatives/hackathons/bcn-hack/projects/cl5f6i2qh9980901z8uqvh0lzm/idea) at [BCN Hack](https://taikai.network/en/datanatives/hackathons/bcn-hack) 2022
 * <span style="color:green">[February, 2022]</span> Paper accepted in Journal of Sensors on [Blockchain for Trustworthy Internet of Things](https://www.mdpi.com/journal/sensors/special_issues/Blockchain_Trustworthy_IoT)
 * <span style="color:green">[December, 2021]</span> Vendor-Independent SDN - Paper accepted at [IEEE, SCC 2021](https://scc.ieee.tn/) <span style="color:blue"> **[ Best Paper Award ]**</span>

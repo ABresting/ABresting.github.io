@@ -10,7 +10,7 @@ author_profile: true
 </p>
 -->
 
-- I am a PhD Student at [WiSeCom Group](https://www.upf.edu/web/wisecom), UPF Barcelona, advised by [Vanesa Daza](https://www.upf.edu/web/vanesa-daza). My PhD is in collaboration with [Bell Labs](https://www.bell-labs.com/){:target="\_blank"} (at present run by Nokia) at Paris, France where I served as a Research Intern for a year and a half. I am a Marie Curie Fellowship MSCA-ITN recipeint.
+- I am a Distributed Protocol Researcher at Status.im/Waku and finishing my PhD at [WiSeCom Group](https://www.upf.edu/web/wisecom), UPF Barcelona, advised by [Vanesa Daza](https://www.upf.edu/web/vanesa-daza). My PhD is in collaboration with [Bell Labs](https://www.bell-labs.com/){:target="\_blank"} (at present run by Nokia) at Paris, France where I served as a Research Intern for a year and a half. I am a Marie Curie Fellowship MSCA-ITN recipeint.
 <!-- and a PhD student at [UPF](https://www.upf.edu/en/){:target="_blank"}, Barcelona, Spain.
 -->
 - My research interests include Distributed Systems, Blockchains, Security, and, Computer Networks.

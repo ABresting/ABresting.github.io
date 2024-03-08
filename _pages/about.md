@@ -10,15 +10,17 @@ author_profile: true
 </p>
 -->
 
-- I am finishing my PhD at [WiSeCom Group](https://www.upf.edu/web/wisecom), UPF Barcelona, advised by [Vanesa Daza](https://www.upf.edu/web/vanesa-daza) and an OS Protocol contributor at Waku/STatus.im. My PhD is in collaboration with [Bell Labs](https://www.bell-labs.com/){:target="\_blank"} (at present run by Nokia) at Paris, France where I served as a Research Intern for a year and a half. I am a Marie Curie Fellowship MSCA-ITN recipeint.
+- I am finishing my PhD at [WiSeCom Group](https://www.upf.edu/web/wisecom), UPF Barcelona, advised by [Vanesa Daza](https://www.upf.edu/web/vanesa-daza) and an OS Protocol contributor at Waku/Status.im. My PhD is in collaboration with [Bell Labs](https://www.bell-labs.com/){:target="\_blank"} (at present run by Nokia) at Paris, France where I served as a Research Intern for a year and a half. My PhD is supported by Protocol Labs and Marie Curie Fellowship.
 <!-- and a PhD student at [UPF](https://www.upf.edu/en/){:target="_blank"}, Barcelona, Spain.
 -->
 - My research interests include Distributed Systems, Blockchains, Security, and, Computer Networks.
 
-- Graduated with a Masters degree (M.E.) in Computer Science from [Birla Institute of Technology and Science](https://www.bits-pilani.ac.in/Pilani/){:target="\_blank"}, Pilani Campus (BITS Pilani) in 2017. I have worked as a Software Engineer in Protocols(CIFS) group in [EMC](https://www.dellemc.com/en-us/data-protection/data-domain-backup-storage.htm){:target="\_blank"} (now DellEMC) at Pune office for nearly 2 year. I spent a brief time at Linkoping University, Sweden as a Research Assistant under Prof. [Andrei Gurtov](https://www.ida.liu.se/~andgu38/){:target="\_blank"}.
+- Graduated with a Masters degree (M.E.) in Computer Science from [Birla Institute of Technology and Science](https://www.bits-pilani.ac.in/Pilani/){:target="\_blank"}, Pilani Campus (BITS Pilani) in 2017. I have worked as a Software Engineer in Protocols(CIFS) group in [EMC](https://www.dellemc.com/en-us/data-protection/data-domain-backup-storage.htm){:target="\_blank"} (now DellEMC) at Pune office for nearly 2 year. I spent a brief time at Linkoping University, Sweden as a Research Assistant under Prof. [Andrei Gurtov](https://www.ida.liu.se/~andgu38/){:target="\_blank"}. I have also worked as a Protocol Researcher at Waku/Status.im in Zug, Switzerland.
 
 # Recent Updates
 
+- <span style="color:green">[February, 2024]</span> Left job at Status.im/Waku, starting to write the PhD thesis.
+- <span style="color:green">[September, 2023]</span> Started as a Distributed Protocol Researcher at Statu.im/Waku in Zug, Switzerland.
 - <span style="color:green">[June, 2023]</span> Winner at [IC3 Blockchain Camp](https://www.initc3.org/events/2023-06-12-ic3-blockchain-camp-2023) 2023(June) hosted by IC3 at Cornell Tech. NYC Campus.
 - <span style="color:green">[April, 2023]</span> Paper accepted in 5th Distributed Ledger Technology Workshop [DLT 2023](https://dltgroup.dmi.unipg.it/DLTWorkshop/dlt2023.html)
 - <span style="color:green">[December, 2022]</span> Awarded Protocol Labs (Filecoin) [Doctoral Fellowship](https://github.com/protocol/research-grants) with an annual sum of 60k USD.

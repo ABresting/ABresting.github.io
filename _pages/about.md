@@ -19,7 +19,8 @@ author_profile: true
 
 # Recent Updates
 
-- <span style="color:green">[April, 2023]</span> Paper accepted in 6th Distributed Ledger Technology Workshop [DLT 2024](https://dlt2024.di.unito.it/wp-content/uploads/2024/04/DLT2024-Program.pdf)
+- <span style="color:green">[June, 2024]</span> Selected to join the Ethereum Protocol Fellowship (EPF) cohort 5!
+- <span style="color:green">[April, 2024]</span> Paper accepted in 6th Distributed Ledger Technology Workshop [DLT 2024](https://dlt2024.di.unito.it/wp-content/uploads/2024/04/DLT2024-Program.pdf)
 - <span style="color:green">[February, 2024]</span> Left job at Status.im/Waku, starting to write the PhD thesis.
 - <span style="color:green">[September, 2023]</span> Started as a Distributed Protocol Researcher at Statu.im/Waku in Zug, Switzerland.
 - <span style="color:green">[June, 2023]</span> Winner at [IC3 Blockchain Camp](https://www.initc3.org/events/2023-06-12-ic3-blockchain-camp-2023) 2023(June) hosted by IC3 at Cornell Tech. NYC Campus.

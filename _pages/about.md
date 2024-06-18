@@ -19,6 +19,7 @@ author_profile: true
 
 # Recent Updates
 
+- <span style="color:green">[June, 2024]</span> Winner at [IC3 Blockchain Camp](https://twitter.com/initc3org/status/1802783504607985831) 2024(June) hosted by IC3 at Cornell Tech. NYC Campus.
 - <span style="color:green">[June, 2024]</span> Selected to join the Ethereum Protocol Fellowship (EPF) cohort 5!
 - <span style="color:green">[April, 2024]</span> Paper accepted in 6th Distributed Ledger Technology Workshop [DLT 2024](https://dlt2024.di.unito.it/wp-content/uploads/2024/04/DLT2024-Program.pdf)
 - <span style="color:green">[February, 2024]</span> Left job at Status.im/Waku, starting to write the PhD thesis.

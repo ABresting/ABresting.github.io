@@ -15,10 +15,12 @@ author_profile: true
 -->
 - My research interests include Distributed Systems, Blockchains, Security, and, Computer Networks.
 
-- Graduated with a Masters degree (M.E.) in Computer Science from [Birla Institute of Technology and Science](https://www.bits-pilani.ac.in/Pilani/){:target="\_blank"}, Pilani Campus (BITS Pilani) in 2017. I have worked as a Software Engineer in Protocols(CIFS) group in [EMC](https://www.dellemc.com/en-us/data-protection/data-domain-backup-storage.htm){:target="\_blank"} (now DellEMC) at Pune office for nearly 2 year. I spent a brief time at Linkoping University, Sweden as a Research Assistant under Prof. [Andrei Gurtov](https://www.ida.liu.se/~andgu38/){:target="\_blank"}. I have also worked as a Protocol Researcher at Waku/Status.im in Zug, Switzerland.
+- Graduated with a Masters degree (M.E.) in Computer Science from [Birla Institute of Technology and Science](https://www.bits-pilani.ac.in/Pilani/){:target="\_blank"}, Pilani Campus (BITS Pilani) in 2017. I have worked as a Software Engineer in Protocols(CIFS) group in [EMC](https://www.dellemc.com/en-us/data-protection/data-domain-backup-storage.htm){:target="\_blank"} (now DellEMC) at Pune office for nearly 2 year. I spent a brief time at Linkoping University, Sweden as a Research Assistant under Prof. [Andrei Gurtov](https://www.ida.liu.se/~andgu38/){:target="\_blank"}. I have also worked as a Protocol Researcher at Waku/Status.im in Zug and Solayer Labs remote from Switzerland.
 
 # Recent Updates
 
+- <span style="color:green">[September, 2024]</span> Started as a Research Lead at Advaita Labs, Remote from Switzerland.
+- <span style="color:green">[June, 2024]</span> Started as a Protocol Researcher at Solayer Labs (Solana Ecosystem), Remote from Switzerland.
 - <span style="color:green">[June, 2024]</span> Winner at [IC3 Blockchain Camp](https://twitter.com/initc3org/status/1802783504607985831) 2024(June) hosted by IC3 at Cornell Tech. NYC Campus.
 - <span style="color:green">[June, 2024]</span> Selected to join the Ethereum Protocol Fellowship (EPF) cohort 5!
 - <span style="color:green">[April, 2024]</span> Paper accepted in 6th Distributed Ledger Technology Workshop [DLT 2024](https://dlt2024.di.unito.it/wp-content/uploads/2024/04/DLT2024-Program.pdf)

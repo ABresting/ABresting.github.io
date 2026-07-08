@@ -10,7 +10,7 @@ author_profile: true
 </p>
 -->
 
-- I am finishing my PhD at [WiSeCom Group](https://www.upf.edu/web/wisecom), UPF Barcelona, advised by [Vanesa Daza](https://www.upf.edu/web/vanesa-daza) and an OS Protocol contributor at Waku/Status.im. My PhD is in collaboration with [Bell Labs](https://www.bell-labs.com/){:target="\_blank"} (at present run by Nokia) at Paris, France where I served as a Research Intern for a year and a half. My PhD is supported by Protocol Labs and Marie Curie Fellowship.
+- I am finishing my PhD at Universitat Politècnica de Catalunya and [WiSeCom Group](https://www.upf.edu/web/wisecom), UPF Barcelona, advised by [Vanesa Daza](https://www.upf.edu/web/vanesa-daza) and an OS Protocol contributor at Waku/Status.im. My PhD is in collaboration with [Bell Labs](https://www.bell-labs.com/){:target="\_blank"} (at present run by Nokia) at Paris, France where I served as a Research Intern for a year and a half. My PhD is supported by Protocol Labs and Marie Curie Fellowship.
 <!-- and a PhD student at [UPF](https://www.upf.edu/en/){:target="_blank"}, Barcelona, Spain.
 -->
 - My research interests include Distributed Systems, Blockchains, Security, and, Computer Networks.
@@ -19,6 +19,8 @@ author_profile: true
 
 # Recent Updates
 
+- <span style="color:green">[January, 2026]</span> Paper accepted in ACM Journal - Distributed Ledger Technologies: Research and Practice [ACM-DLT](https://dl.acm.org/doi/10.1145/3785142)
+- <span style="color:green">[April, 2025]</span> Paper on [Anonymous Self-Credentials and their Application to Single-Sign-On](https://eprint.iacr.org/2025/618) live on eprint.
 - <span style="color:green">[September, 2024]</span> Started as a Research Lead at Advaita Labs, Remote from Switzerland.
 - <span style="color:green">[June, 2024]</span> Started as a Protocol Researcher at Solayer Labs (Solana Ecosystem), Remote from Switzerland.
 - <span style="color:green">[June, 2024]</span> Winner at [IC3 Blockchain Camp](https://twitter.com/initc3org/status/1802783504607985831) 2024(June) hosted by IC3 at Cornell Tech. NYC Campus.
